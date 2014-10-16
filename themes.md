@@ -1,21 +1,26 @@
 Thématiques
 ===========
+* Arts
+* Chimie
+* Droit
+* Écologie
+* Économie
+* Éducation
 * Géographie
 * Histoire
-* Philosophie
-* Psychologie
-* Éducation
-* Communication
-* Sociétés
-* Langues et linguistique
-* Arts
-* Droit
-* Politique
-* Économie et gestion
-* Terre et univers
-* Physique
-* Biologie et écologie
-* Mathématiques
 * Informatique
 * Ingénierie
-* Santé et médecine
+* Langues
+* Mathématiques
+* Médecine
+* Philosophie
+* Physique
+* Politique
+* Sociétés
+* Terre et univers
+
+* Invités
+* Opinions
+* Rencontres
+* Essais
+* Pastilles
